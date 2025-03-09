@@ -26,7 +26,7 @@ Here are some screenshots of the application:
    ![Add Recipe](./screenshots/addrecipe.jpg)
 
 3. **Display recipes**
-   ![Display Recipe](./screenshots/displayrecipes.jpg)
+   ![Display Recipe](./screenshots/display_recipes.jpg)
 
 5. **Edit Recipe Page**
    ![Edit Recipe](./screenshots/editrecipe.jpg)
@@ -50,3 +50,26 @@ Here are some screenshots of the application:
 ```sh
 git clone https://github.com/your-username/recipe-finder.git
 cd recipe-finder
+
+**Install required libraries**
+
+**Setting backend**
+
+mkdir backend
+cd backend
+npm init -y
+npm install express mongoose dotenv cors body-parser
+
+
+**Create .env**
+MONGO_CONNECTION_STRING=your_mongodb_uri
+PORT=5000
+**Start backend**
+node app.js
+
+
+**Setting frontend**
+npx create-react-app frontend
+cd frontend
+npm install axios react-router-dom
+npm start
