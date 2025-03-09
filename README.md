@@ -19,24 +19,24 @@ This app allows users to **add, view, edit, and delete recipes**.
 
 Here are some screenshots of the application:
 
-1. **Home Page (Recipe List)**
-   ![Home Page](./screenshots/homepage.png)
+1. **HomePage **
+   ![Home Page](./screenshots/homepage.jpg)
 
-2. **Recipe Details Page**
-   ![Recipe Details](./screenshots/recipe_details.png)
+2. **Add Recipe Page**
+   ![Add Recipe](./screenshots/addrecipe.jpg)
 
-3. **Add Recipe Page**
-   ![Add Recipe](./screenshots/add_recipe.png)
+3. **Display recipes**
+   ![Display Recipe](./screenshots/Recipelist.jpg)
 
-4. **Edit Recipe Page**
-   ![Edit Recipe](./screenshots/edit_recipe.png)
+5. **Edit Recipe Page**
+   ![Edit Recipe](./screenshots/editrecipe.jpg)
 
-5. **Delete recipe page**
-   ![Delete Confirmation](./screenshots/delete_recipe.png)
+6. **Delete recipe page**
+   ![Delete Confirmation](./screenshots/deleterecipe.jpg)
 
+7.**FinalRecipe Details Page**
+   ![final_page](./screenshots/final_page.jpg)
 
-
----
 
 ## Tech Stack
 
@@ -45,8 +45,6 @@ Here are some screenshots of the application:
 - **Database:** MongoDB Atlas
 - **Styling:** CSS
 - **API Testing:** Postman
-
----
 
 ### ** Clone the Repository**
 ```sh
