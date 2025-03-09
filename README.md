@@ -19,14 +19,14 @@ This app allows users to **add, view, edit, and delete recipes**.
 
 Here are some screenshots of the application:
 
-1. **HomePage **
+1. **HomePage**
    ![Home Page](./screenshots/homepage.jpg)
 
 2. **Add Recipe Page**
    ![Add Recipe](./screenshots/addrecipe.jpg)
 
 3. **Display recipes**
-   ![Display Recipe](./screenshots/Recipelist.jpg)
+   ![Display Recipe](./screenshots/displayrecipes.jpg)
 
 5. **Edit Recipe Page**
    ![Edit Recipe](./screenshots/editrecipe.jpg)
