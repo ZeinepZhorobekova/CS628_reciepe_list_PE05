@@ -15,7 +15,7 @@ This app allows users to **add, view, edit, and delete recipes**.
 
 ---
 
-## 📸 Screenshots
+## Output Screenshots
 
 Here are some screenshots of the application:
 
