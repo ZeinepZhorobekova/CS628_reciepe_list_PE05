@@ -73,3 +73,13 @@ npx create-react-app frontend
 cd frontend
 npm install axios react-router-dom
 npm start
+
+**References**
+expressjs.com/en/guide/routing.html
+mongoosejs.com/docs/guide.html
+reactrouter.com/en/main/hooks/use-params
+reactrouter.com/en/main/hooks/use-navigate
+react.dev/learn/handling-text-input
+react.dev/reference/react/useState
+react.dev/learn/forms
+react.dev/learn/passing-props-to-a-component
